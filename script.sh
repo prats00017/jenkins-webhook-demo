@@ -5,3 +5,6 @@ date
 hostname
 echo "Second Build"
 echo "Fifth Commit"
+echo "Third Commit"
+date
+hostname
