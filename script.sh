@@ -8,3 +8,6 @@ echo "Fifth Commit"
 echo "Third Commit"
 date
 hostname
+echo "Fourth commit"
+date
+hostname
