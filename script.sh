@@ -11,3 +11,6 @@ hostname
 echo "Fourth commit"
 date
 hostname
+echo "Fifth commit"
+date
+hostname
